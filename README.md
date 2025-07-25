@@ -3,7 +3,7 @@
 Project Summary: Car Number Plate Detection
 This project implements an automatic Car Number Plate Detection System using computer vision and deep learning techniques. It captures vehicle images in real-time or from video sources, detects the license plate region, and extracts the plate number using Optical Character Recognition (OCR).
 
-Key Features
+## Key Features
  Real-time vehicle and number plate detection using OpenCV and pre-trained models
 
  License plate region extraction using contour analysis or YOLO/HAAR-based detection
@@ -14,7 +14,7 @@ Key Features
 
  Modular and clean codebase for easy customization and integration
 
- Technologies Used
+## Technologies Used
 Python, OpenCV
 
 Tesseract OCR
@@ -23,7 +23,7 @@ NumPy, Imutils
 
 (Optional) TensorFlow/Keras for training custom plate detection models
 
- Use Cases
+## Use Cases
 Smart parking systems
 
 Traffic law enforcement
